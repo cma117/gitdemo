@@ -1,0 +1,10 @@
+public class GitDemo
+{
+public void meth1()
+{
+sysout("welcome to gitdemo");
+sysou("we r learnign git");
+}
+
+
+}
